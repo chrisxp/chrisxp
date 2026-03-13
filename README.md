@@ -44,6 +44,19 @@ Linux / Unix / Windows
 
 ---
 
+## 🚀 Projects
+
+### 📊 Excel Auto Report
+엑셀 데이터를 분석해 자동으로 보고서를 생성하는 프로그램
+
+### 🌐 Website Data Crawler
+웹사이트 데이터를 자동 수집하는 크롤링 프로그램
+
+### 📦 Simple Inventory System
+간단한 재고 관리 프로그램
+
+---
+
 ## 📫 Contact
 
 email: chrisxp@kakao.com
