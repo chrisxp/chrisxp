@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/ijoon_width.png" width="500">
+</p>
+
 # 👋 Hi, I'm ijoon
 
 💻 20 Years Software Engineer  
