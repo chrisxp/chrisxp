@@ -2,10 +2,10 @@
   <img src="images/ijoon_width.png" width="500">
 </p>
 
-# 👋 Hi, I'm ijoon
+# 👋 Hi, I'm ijoon (아이준)
 
-💻 20 Years Software Engineer  
-Custom systems / Automation / Web development
+💻 Software Engineer with 20 Years of Experience  
+Custom systems · Automation · Web development
 
 ---
 
@@ -13,7 +13,7 @@ Custom systems / Automation / Web development
 
 - Custom Business Systems
 - 업무 자동화 프로그램 개발
-- Web / 쇼핑몰 개발
+- Web / 쇼핑몰 시스템 개발
 - Database Optimization
 - Legacy System Improvement
 
@@ -23,15 +23,15 @@ Custom systems / Automation / Web development
 
 **Languages**
 
-Java / C++ / C# / PHP / JSP / SQL
+Java · C++ · C# · PHP · JSP · SQL
 
 **Database**
 
-Oracle / MySQL / MSSQL / Sybase
+Oracle · MySQL · MSSQL · Sybase
 
 **Environment**
 
-Linux / Unix / Windows
+Linux · Unix · Windows
 
 ---
 
@@ -59,8 +59,8 @@ Linux / Unix / Windows
 
 ## 📫 Contact
 
-email: chrisxp@kakao.com
+📧 chrisxp@kakao.com
 
 ---
 
-⭐ Building useful tools for businesses and individuals
+⭐ Building useful tools for businesses and individuals.
