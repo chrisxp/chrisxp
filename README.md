@@ -42,7 +42,7 @@ Linux / Unix / Windows
 
 ## 📫 Contact
 
-숨고 / 크몽 의뢰 가능
+email: chrisxp@kakao.com
 
 ---
 
