@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm ijoon
 
-<!--
-**chrisxp/chrisxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 20 Years Software Engineer  
+Custom systems / Automation / Web development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- Custom Business Systems
+- 업무 자동화 프로그램 개발
+- Web / 쇼핑몰 개발
+- Database Optimization
+- Legacy System Improvement
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Java / C++ / C# / PHP / JSP / SQL
+
+**Database**
+
+Oracle / MySQL / MSSQL / Sybase
+
+**Environment**
+
+Linux / Unix / Windows
+
+---
+
+## 📦 Services
+
+✔ 업무 자동화 프로그램  
+✔ 맞춤 프로그램 개발  
+✔ 웹사이트 / 쇼핑몰 제작  
+✔ DB 설계 및 성능 최적화  
+
+---
+
+## 📫 Contact
+
+숨고 / 크몽 의뢰 가능
+
+---
+
+⭐ Building useful tools for businesses and individuals
